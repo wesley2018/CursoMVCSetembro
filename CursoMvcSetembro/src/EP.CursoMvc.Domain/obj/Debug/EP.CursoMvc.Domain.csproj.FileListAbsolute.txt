@@ -1,0 +1,8 @@
+C:\Projetos\Web\CursoMvcSetembro\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.dll
+C:\Projetos\Web\CursoMvcSetembro\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.pdb
+C:\Projetos\Web\CursoMvcSetembro\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Web\CursoMvcSetembro\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.dll
+C:\Projetos\Web\CursoMvcSetembro\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.pdb
+C:\Projetos\Web\CursoMvcSetembro\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csprojAssemblyReference.cache
+C:\Projetos\Web\CursoMvcSetembro\src\EP.CursoMvc.Domain\bin\Debug\DomainValidation.dll
+C:\Projetos\Web\CursoMvcSetembro\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csproj.CopyComplete
